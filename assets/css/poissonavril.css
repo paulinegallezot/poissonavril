@@ -1,0 +1,15 @@
+.titreprincipal
+{
+    background-color: rgb(0, 204, 255);
+    text-align: center;
+}
+
+.premièrepartie {
+    display: flex;
+    flex-wrap: nowrap; 
+}
+
+.deuxièmepartie {
+    display: flex;
+    flex-wrap: nowrap;
+}
